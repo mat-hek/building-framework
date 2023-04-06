@@ -1,0 +1,1 @@
+npx @marp-team/marp-cli@latest presentation.md --engine ./marpit_engine.js --allow-local-files --html -o presentation.pdf
